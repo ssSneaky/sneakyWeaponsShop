@@ -5,4 +5,4 @@
        
        FR : Armuerie en RageUi (script simple)
        EN : WeaponShop in RageUI (simple script)
-       My Discord : Sneaky'#6666
+       My Discord : Sneaky'#0001
